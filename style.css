@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(77, 54, 37);
+    background-size: 1px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+ }
+ #firsthelo{
+    color: red;
+ }
+ #worldhelo{
+    color: red;
+ }
+ #hellohi{
+    color: rgb(204, 47, 47);
+ }
+ #mouseapp{
+    color: red;
+ }
+ #my bike{
+    color: red;
+ }
+ .helloword{
+   background-color: red;
+   color: white;
+   height: 30px;
+ }
